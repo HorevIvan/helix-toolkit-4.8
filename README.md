@@ -1,6 +1,7 @@
 [![HelixToolkit](https://img.shields.io/badge/-Helix%20Toolkit-blue)](https://github.com/helix-toolkit/helix-toolkit) 
 
-<img src='https://avatars3.githubusercontent.com/u/8432523?s=200&v=4' width='64' />
+![image](https://github.com/user-attachments/assets/ad7f1d31-acc3-4da5-bee9-4c87a07fbd3e)
+
 
 # Helix Toolkit
 
